@@ -25,9 +25,9 @@ I am a results-driven Data Scientist with a B.Sc. in Computer Science and hands-
 * **Tools:** Git, Docker, Jupyter Notebook
 
 ### 🚀 Featured Projects
-* **[Salary / CTC Prediction for New Hires](https://github.com/rahul261098)**: Built ML models (Linear Regression, Random Forest) to predict salary drivers, applied cross-validation to reduce overfitting, and improved hiring budget accuracy.
-* **[Bike Heaven Sales Analysis](https://github.com/rahul261098)**: Uncovered revenue trends and built interactive Tableau dashboards for stakeholder decision-making.
-* **[IPL Franchise Auction Strategy](https://github.com/rahul261098)**: Extracted and analyzed historical player data to build a data-driven auction recommendation model within budget constraints.
+* **[Salary / CTC Prediction for New Hires](https://github.com/rahul261098/Linear-Regression-Model-to-Determine-CTC-Salary-for-New-Hires)**: Built ML models (Linear Regression, Random Forest) to predict salary drivers, applied cross-validation to reduce overfitting, and improved hiring budget accuracy.
+* **[Bike Heaven Sales Analysis](https://github.com/rahul261098/The_Bike_Heaven)**: Uncovered revenue trends and built interactive Tableau dashboards for stakeholder decision-making.
+* **[IPL Franchise Auction Strategy](https://github.com/rahul261098/Auction-Strategy-for-a-New-IPL-Franchise-)**: Extracted and analyzed historical player data to build a data-driven auction recommendation model within budget constraints.
 * **WeFit Customer Analytics**: Performed customer segmentation to identify high-value profiles and optimize marketing strategies.
 
 ### 📈 GitHub Stats
