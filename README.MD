@@ -31,8 +31,7 @@ I am a results-driven Data Scientist with a B.Sc. in Computer Science and hands-
 * **WeFit Customer Analytics**: Performed customer segmentation to identify high-value profiles and optimize marketing strategies.
 
 ### 📈 GitHub Stats
-<p align="center">
- ### 📈 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul261098&show_icons=true&theme=radical&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul261098&show_icons=true&theme=radical&rank_icon=github" alt="Rahul's GitHub Stats" />
 </p>
