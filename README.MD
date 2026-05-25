@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://rahul261098.github.io/portfolio/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/rahul-mandal-066231249/" target="_blank">LinkedIn</a> •
-  <a href="https://www.hackerrank.com/rahulmandalin1998" target="_blank">HackerRank</a> •
+  <a href="https://www.hackerrank.com/profile/rahul26101998" target="_blank">HackerRank</a> •
   <a href="mailto:rahulmandalin1998@gmail.com">Email</a>
 </p>
 
@@ -32,5 +32,7 @@ I am a results-driven Data Scientist with a B.Sc. in Computer Science and hands-
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul261098&show_icons=true&theme=radical" alt="Rahul's GitHub stats" />
+ ### 📈 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul261098&show_icons=true&theme=radical&rank_icon=github)
 </p>
