@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Rahul Mandal</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | AI  based in Pune, India 🇮🇳</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | AI  based in Pune, India</h3>
 
 <p align="center">
   <a href="https://rahul261098.github.io/portfolio/" target="_blank">Portfolio</a> •
